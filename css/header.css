@@ -39,14 +39,14 @@ header .logo:hover{
 header .logo::before{
     position: absolute;
     content: url("/images/logoR.svg");
-    top:12px
-    
-
-  
-    
+    top:12px  
    
 }
-
+.logo-span{
+position:relative;
+  margin-right:-12px;
+  
+}
 
 header .logo span {
   color: var(--pink);
