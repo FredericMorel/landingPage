@@ -43,9 +43,9 @@ header .logo::before{
    
 }
 .logo-span{
-position:relative;
+  position:relative;
   margin-right:-12px;
-  
+  top:5px;
 }
 
 header .logo span {
